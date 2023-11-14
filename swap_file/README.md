@@ -4,19 +4,19 @@ This script creates and configures a swap file on your Linux system. A swap file
 
 ## Scenarios for Using This Script
 
-1. Increase System Performance: If you frequently experience slowdowns or application crashes due to insufficient RAM, creating a swap file can provide additional memory space, allowing your system to handle multitasking and resource-intensive applications more effectively.
+1. <b><u>Increase System Performance:</u></b> If you frequently experience slowdowns or application crashes due to insufficient RAM, creating a swap file can provide additional memory space, allowing your system to handle multitasking and resource-intensive applications more effectively.
 
-2. Run Memory-Intensive Applications: If you use memory-intensive applications, such as video editing software or 3D modeling tools, having a swap file can prevent your system from running out of memory and causing the applications to crash.
+2. <b><u>Run Memory-Intensive Applications:</u></b> If you use memory-intensive applications, such as video editing software or 3D modeling tools, having a swap file can prevent your system from running out of memory and causing the applications to crash.
 
-3. Extend Virtual Machine Resources: If you run virtual machines on your system, allotting a swap file can provide additional memory for the virtual machines, enabling them to run more smoothly and handle demanding tasks more efficiently.
+3. <b><u>Extend Virtual Machine Resources:</u></b> If you run virtual machines on your system, allotting a swap file can provide additional memory for the virtual machines, enabling them to run more smoothly and handle demanding tasks more efficiently.
 
 ## Potential Problems Addressed by Swap File
 
-1. System Slowdowns: When your system runs out of RAM, it starts using hard drive memory for data storage, which is significantly slower than RAM. A swap file can alleviate this problem by providing additional memory, reducing the reliance on hard drive memory and improving overall system responsiveness.
+1. <b><u>System Slowdowns:</u></b> When your system runs out of RAM, it starts using hard drive memory for data storage, which is significantly slower than RAM. A swap file can alleviate this problem by providing additional memory, reducing the reliance on hard drive memory and improving overall system responsiveness.
 
-2. Application Crashes: When applications require more memory than is available, they may start malfunctioning or crashing. A swap file can prevent these crashes by providing temporary storage for application data, allowing them to continue running without exceeding RAM limitations.
+2. <b><u>Application Crashes:</u></b> When applications require more memory than is available, they may start malfunctioning or crashing. A swap file can prevent these crashes by providing temporary storage for application data, allowing them to continue running without exceeding RAM limitations.
 
-3. Out-of-Memory Errors: If your system completely runs out of memory, you may encounter out-of-memory errors, causing the system to become unresponsive or even crash. A swap file can help prevent these errors by providing an additional memory buffer, ensuring that essential system processes can continue running.
+3. <b><u>Out-of-Memory Errors:</u></b> If your system completely runs out of memory, you may encounter out-of-memory errors, causing the system to become unresponsive or even crash. A swap file can help prevent these errors by providing an additional memory buffer, ensuring that essential system processes can continue running.
 
 By creating a swap file, you can improve your system's performance, prevent application crashes, and avoid out-of-memory errors, enhancing the overall stability and usability of your Linux system.
 
