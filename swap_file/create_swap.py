@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This is the file to download and run on the server/computer runing unix/linux to create a swap file
 import argparse
 import os
 
