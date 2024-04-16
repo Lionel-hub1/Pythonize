@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](../LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your-email@example.com](mailto:ndabagajeanlionel@gmail.com).
+For any questions or inquiries, please contact [ndabagajeanlionel@gmail.com](mailto:ndabagajeanlionel@gmail.com).
